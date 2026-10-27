@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AKS Terraform
 
 - clone repo on local
@@ -45,3 +46,6 @@ kubectl get pods -A
 AKS cluster is now connected and ready for Kubernetes deployments.
 
 now crete one deplyment and access it 
+=======
+# AKS-Terraform
+>>>>>>> 0fa4785e3302305573781bcbdb5c993caaf32b86
